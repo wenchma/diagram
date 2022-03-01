@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T07:05:45.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1xZTF57rzNBLeyOH7MRn" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T07:22:25.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0sVg09w5OivM-XzLEjJ1" version="16.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,12 @@
         </mxCell>
         <mxCell id="0deKgzUR0Fv1WshsAVM9-35" value="build xml config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0deKgzUR0Fv1WshsAVM9-38" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;rotation=-90;dashed=1;base=30;dashPattern=1 1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="405" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0deKgzUR0Fv1WshsAVM9-39" value="&lt;font style=&quot;font-size: 11px&quot;&gt;1. config ipsec for pop1&lt;br&gt;2. copy from running to startup&lt;br&gt;3. config pop2&lt;br&gt;4. copy from R to S&lt;br&gt;5. config edge&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="90" height="131.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
